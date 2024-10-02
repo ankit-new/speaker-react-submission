@@ -259,6 +259,7 @@ function AddSpeakerSidebar({ open, onClose }) {
             borderTop: "1px solid #E9E9E9",
             display: "flex",
             justifyContent: "space-between",
+            borderBottomLeftRadius:10,
           }}
         >
           <Box>
